@@ -12,7 +12,7 @@ A responsive and animated landing page designed to immerse users in the serenity
 
 ---
 
-## 📸 Preview
+## project
 
 Here’s a sneak peek of what the project looks like:
 
